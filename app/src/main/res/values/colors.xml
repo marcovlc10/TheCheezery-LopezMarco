@@ -8,4 +8,5 @@
     <color name="last_pink">#ef029d</color>
     <color name="white">#FFFFFFFF</color>
     <color name="accent_pink">#fe2bd0</color>
+    <color name="black">#FF000000</color>
 </resources>

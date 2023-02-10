@@ -36,8 +36,9 @@
         android:padding="15dp"
         />
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_get_started"
         android:layout_width="219dp"
-        android:layout_height="40dp"
+        android:layout_height="wrap_content"
         android:text="@string/button_start"
         android:background="@drawable/round_button"
         android:textColor="@color/white"
